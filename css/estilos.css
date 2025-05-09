@@ -64,7 +64,7 @@ footer{
 }
 /*Estilos de imagenes*/
 img{
-    width: 100%;
+    width: 80%;
     height: auto;
     margin-top: 15px;
     border-radius: 8px;
@@ -108,3 +108,17 @@ img{
         width: 80%;
     }
 }
+/*Estilo boton*/
+.boton {
+    background-color: #2ec42e; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  
+.boton:hover {
+    background-color: #df2e2e;}
