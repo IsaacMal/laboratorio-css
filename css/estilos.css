@@ -69,6 +69,9 @@ img{
     margin-top: 15px;
     border-radius: 8px;
 }
+.img_tarjeta{
+    width: 15%;
+}
 /*Estilos tarjetas de servicios*/
 .tarjetas{
     display: flex;
